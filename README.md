@@ -1,6 +1,6 @@
 # Criminal-Activity-in-India
 
-Criminal Activities in India: Analytics
+### Criminal Activities in India: Analytics
 
 This project aims to analyze criminal activities in India using various datasets obtained from Kaggle. The analysis includes data cleaning, exploratory data analysis (EDA), visualization, and creating interactive dashboards to uncover insights and trends in criminal activities.
 
@@ -33,7 +33,7 @@ The project utilizes the following datasets:
 
 
 
-**├── data/**
+### **├── data/**
 
 
 
@@ -78,32 +78,32 @@ The project utilizes the following datasets:
 .
 
 
-**├── notebooks/**
+### **├── notebooks/** **EDA on Google Collaboratory live**
 
 
 
-│   ├── EDA_Crime_Against_Women_&_children.ipynb 
+**│   ├── EDA_Crime_Against_Women_&_children.ipynb**
 
 -> https://colab.research.google.com/drive/1YLj1XR5bKgvckCOkNTF3jtqQtTPU4Yww?usp=drive_link
 
 
 
 
-│   ├── EDA_Murders_Cases_&_victims_of_murders.ipynb 
+**│   ├── EDA_Murders_Cases_&_victims_of_murders.ipynb**
 
 -> https://colab.research.google.com/drive/19lSlZTgcJrRblKoLt79P-vLPpzuf9LbB?usp=drive_link
 
 
 
 
-│   ├── EDA_Violent_Crimes_&_Kidnapping_Abduction.ipynb 
+**│   ├── EDA_Violent_Crimes_&_Kidnapping_Abduction.ipynb**
 
 -> https://colab.research.google.com/drive/1trziLLChFX9jEfgFsezpg47Fx5AbSiIo?usp=drive_link
 
 
 
 
-│   ├── EDA_IPC_Crimes_in_City_&_states_&_Total_complaints_received.ipynb  
+**│   ├── EDA_IPC_Crimes_in_City_&_states_&_Total_complaints_received.ipynb**  
 
 -> https://colab.research.google.com/drive/1RO0R1LRWirLA-LP56Ggg4hi5aVfrruyd?usp=drive_link
 
@@ -112,52 +112,52 @@ The project utilizes the following datasets:
 
 
 
-**├── dashboards/**
+### **├── dashboards/** Tableau
 
 
 
-│   ├── Crime_Against_Women_Dashboard.twb 
+**│   ├── Crime_Against_Women_Dashboard.twb**
 
 -> https://public.tableau.com/app/profile/md.mishkat.ahsan/viz/CriminalActivitiesinIndia_17161056241530/Dashboardwomen 
 
 
-│   ├── Children_Crimes_Dashboard.twb 
+**│   ├── Children_Crimes_Dashboard.twb**
 
 -> https://public.tableau.com/app/profile/md.mishkat.ahsan/viz/CriminalActivitiesinIndia_17161056241530/DashboardChildren
 
 
-│   ├── Murders_Cases_Dashboard.twb  
+**│   ├── Murders_Cases_Dashboard.twb**
 
 -> https://public.tableau.com/app/profile/md.mishkat.ahsan/viz/CriminalActivitiesinIndia_17161056241530/Dashboardmurders
 
 
-│   ├── Victims_of_Murder_Dashboard.twb  
+**│   ├── Victims_of_Murder_Dashboard.twb**
 
 -> https://public.tableau.com/app/profile/md.mishkat.ahsan/viz/CriminalActivitiesinIndia_17161056241530/Dashboardvictims
 
 
-│   ├── Kidnapping_Abduction_Dashboard.twb  
+**│   ├── Kidnapping_Abduction_Dashboard.twb** 
 
 -> https://public.tableau.com/app/profile/md.mishkat.ahsan/viz/CriminalActivitiesinIndia_17161056241530/DashboardKidnappingAbduction
 
 
-│   ├── Violent_Crimes_Dashboard.twb  
+**│   ├── Violent_Crimes_Dashboard.twb**
 
 -> https://public.tableau.com/app/profile/md.mishkat.ahsan/viz/CriminalActivitiesinIndia_17161056241530/DashboardViolent
 
 
-│   ├── IPC_Crimes_in_City_Dashboard.twb 
+**│   ├── IPC_Crimes_in_City_Dashboard.twb**
 
 -> https://public.tableau.com/app/profile/md.mishkat.ahsan/viz/CriminalActivitiesinIndia_17161056241530/DashboardIPCCityCrime
 
 
-│   ├── IPC_Crimes_in_States_Dashboard.twb
+**│   ├── IPC_Crimes_in_States_Dashboard.twb**
 
 
 https://public.tableau.com/app/profile/md.mishkat.ahsan/viz/CriminalActivitiesinIndia_17161056241530/DashboardIPCStateCrime
 
 
-│   ├── Total_Complaints_Received_Dashboard.twb
+**│   ├── Total_Complaints_Received_Dashboard.twb**
 
 -> https://public.tableau.com/app/profile/md.mishkat.ahsan/viz/CriminalActivitiesinIndia_17161056241530/DashboardIPCCityCrime
 
@@ -180,7 +180,7 @@ Navigate to the notebooks directory and open google Collab or  the Jupyter noteb
 
 
 
-jupyter notebook notebooks/EDA_Crime_Against_Women.ipynb
+Open file on Google Collab or jupyter notebook notebooks/EDA_Crime_Against_Women.ipynb
 The dashboards directory contains Tableau workbooks for interactive visualizations. Open these files using Tableau.
 
 
