@@ -226,8 +226,11 @@ Age distribution of victims
 
 Types of crimes
 
+
+
 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
+Contact me mdmishkatahsan02@gmail.com 
 
