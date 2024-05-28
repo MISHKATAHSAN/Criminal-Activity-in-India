@@ -118,7 +118,7 @@ The project utilizes the following datasets:
 
 │   ├── Children_Crimes_Dashboard.twb 
 
--> https://public.tableau.com/app/profile/md.mishkat.ahsan/viz/CriminalActivitiesinIndia_17161056241530/Dashboardhildren
+-> https://public.tableau.com/app/profile/md.mishkat.ahsan/viz/CriminalActivitiesinIndia_17161056241530/DashboardChildren
 
 
 │   ├── Murders_Cases_Dashboard.twb  
@@ -154,7 +154,7 @@ https://public.tableau.com/app/profile/md.mishkat.ahsan/viz/CriminalActivitiesin
 
 │   ├── Total_Complaints_Received_Dashboard.twb
 
--> https://public.tableau.com/app/profile/md.mishkat.ahsan/viz/CriminalActivitiesinIndia_17161056241530/DashboardIPCStateCrime
+-> https://public.tableau.com/app/profile/md.mishkat.ahsan/viz/CriminalActivitiesinIndia_17161056241530/DashboardIPCCityCrime
 
 
 
