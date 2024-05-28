@@ -13,7 +13,7 @@ The project utilizes the following datasets:
 
 2) Crime Against Children
 
-3)Murders Cases
+3) Murders Cases
 
 4) Victims of Murder
 
@@ -31,7 +31,10 @@ The project utilizes the following datasets:
 
 **Criminal-Activities-in-India/**
 
+
+
 **├── data/**
+
 
 
 │   ├── crime_against_women.csv  
@@ -71,7 +74,9 @@ The project utilizes the following datasets:
 -> https://drive.google.com/file/d/1uNqjCLu3x1iwzufQuvnYxq84K4L9ULLD/view?usp=drive_link
 
 
+
 .
+
 
 **├── notebooks/**
 
@@ -103,7 +108,7 @@ The project utilizes the following datasets:
 -> https://colab.research.google.com/drive/1RO0R1LRWirLA-LP56Ggg4hi5aVfrruyd?usp=drive_link
 
 
-
+.
 
 
 
@@ -158,9 +163,7 @@ https://public.tableau.com/app/profile/md.mishkat.ahsan/viz/CriminalActivitiesin
 
 
 
-├── README.md
 
-├── requirements.txt
 
 └── presentation/
 
@@ -170,39 +173,45 @@ https://public.tableau.com/app/profile/md.mishkat.ahsan/viz/CriminalActivitiesin
 
 
 
-Usage
+
+**Usage**
+
 Navigate to the notebooks directory and open google Collab or  the Jupyter notebooks to explore the EDA for each dataset:
 
-sh
-Copy code
+
+
 jupyter notebook notebooks/EDA_Crime_Against_Women.ipynb
 The dashboards directory contains Tableau workbooks for interactive visualizations. Open these files using Tableau.
 
 
-EDA and Insights
+
+**EDA and Insights**
 
 Each dataset was analyzed to answer specific questions and derive insights. Some of the key questions include:
 
 
-How many States and UTs are there in the dataset?
+1) How many States and UTs are there in the dataset?
 
-What are the numbers of crimes in 2019, 2020, and 2021?
+2) What are the numbers of crimes in 2019, 2020, and 2021?
 
-Which states have the highest and lowest number of crimes?
+3) Which states have the highest and lowest number of crimes?
 
-Are crimes increasing or decreasing over the years?
+4) Are crimes increasing or decreasing over the years?
 
-What is the gender distribution of victims?
+5) What is the gender distribution of victims?
+   
+6) More Question are provided According to datasets
+   
 
 Detailed analysis and visualizations for each question are available in the respective Jupyter notebooks.
 
 
-Visualizations
+**Visualizations**
 
 We used Seaborn and Matplotlib for visualizing trends and distributions. The visualizations help in understanding crime patterns and identifying hotspots.
 
 
-Dashboards
+**Dashboards**
 
 Interactive dashboards were created using Tableau for each dataset, providing an intuitive way to explore the data. The dashboards include:
 
