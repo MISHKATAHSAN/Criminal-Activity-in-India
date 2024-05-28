@@ -20,7 +20,7 @@ Datasets
 The project utilizes the following datasets:
 
 Crime Against Women
-Children
+Crime Against Children
 Murders Cases
 Victims of Murder
 Kidnapping and Abduction
@@ -28,13 +28,16 @@ Violent Crimes
 IPC Crimes in City
 IPC Crimes in States
 Total Complaints Received
+
+
 Project Structure
 kotlin
 Copy code
 
 Criminal-Activities-in-India/
 
-├── data/
+**├── data/**
+
 
 │   ├── crime_against_women.csv
 
@@ -44,17 +47,20 @@ Criminal-Activities-in-India/
 
 │   ├── victims_of_murder.csv
 
-│   ├── kidnapping_abduction.csv
+│   ├── kidnapping_abduction.csv --> https://drive.google.com/file/d/1Ez-zsARhhMZG6eOSNxWvomHmRjF1FQJa/view?usp=drive_link
 
-│   ├── violent_crimes.csv
+│   ├── violent_crimes.csv --> https://drive.google.com/file/d/1JNPwYB0TSXsNZeKkUV8zB3DOmcCeEs_S/view?usp=drive_link
 
 │   ├── ipc_crimes_in_city.csv
 
 │   ├── ipc_crimes_in_states.csv
 
-│   ├── total_complaints_received.csv
+│   ├── total_complaints_received.csv  --> https://drive.google.com/file/d/1uNqjCLu3x1iwzufQuvnYxq84K4L9ULLD/view?usp=drive_link
+
+
 
 **├── notebooks/**
+
 
 │   ├── EDA_Crime_Against_Women.ipynb
 
@@ -74,7 +80,10 @@ Criminal-Activities-in-India/
 
 │   ├── EDA_Total_Complaints_Received.ipynb
 
+
+
 **├── dashboards/**
+
 
 │   ├── Crime_Against_Women_Dashboard.twb
 
@@ -94,6 +103,7 @@ Criminal-Activities-in-India/
 
 │   ├── Total_Complaints_Received_Dashboard.twb
 
+
 ├── README.md
 
 ├── requirements.txt
@@ -105,26 +115,9 @@ Criminal-Activities-in-India/
      └── Project_Report.pdf
 
 
-Installation
-Clone the repository:
 
-sh
-Copy code
-git clone https://github.com/yourusername/Criminal-Activities-in-India.git
-cd Criminal-Activities-in-India
-Create a virtual environment and activate it:
-
-sh
-Copy code
-python -m venv env
-source env/bin/activate  # On Windows, use `env\Scripts\activate`
-Install the required packages:
-
-sh
-Copy code
-pip install -r requirements.txt
 Usage
-Navigate to the notebooks directory and open the Jupyter notebooks to explore the EDA for each dataset:
+Navigate to the notebooks directory and open google Collab or  the Jupyter notebooks to explore the EDA for each dataset:
 
 sh
 Copy code
