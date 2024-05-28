@@ -29,6 +29,9 @@ The project utilizes the following datasets:
 9. Total Complaints Received: Data on the total complaints received regarding criminal activities.
 
 
+__________________________________________________________________________________
+
+
 
 #### **Project Structure**
 
@@ -175,6 +178,8 @@ https://public.tableau.com/app/profile/md.mishkat.ahsan/viz/CriminalActivitiesin
      └── Project_Report.pdf
 
 
+__________________________________________________________________________________
+
 
 
 **Usage**
@@ -187,11 +192,15 @@ Open file on Google Collab or jupyter notebook notebooks/EDA_Crime_Against_Women
 The dashboards directory contains Tableau workbooks for interactive visualizations. Open these files using Tableau.
 
 
+__________________________________________________________________________________
+
+
 
 #### **EDA and Insights**
 
 
-##### Crime Against Women
+##### **Crime Against Women**
+
 
 States and UTs in the Dataset: The dataset includes data from all states and Union Territories (UTs) in India.
 
@@ -203,7 +212,9 @@ Crime Trends: Analyzed the trend of crimes over the years to see if they are inc
 
 Crime Distribution: Visualized the distribution of crimes across different states.
 
-##### Crime Against Children
+
+
+##### **Crime Against Children**
 
 
 Yearly Crime Statistics: Number of crimes against children recorded each year.
@@ -217,7 +228,8 @@ Common Crime Types: Most common types of crimes against children.
 Gender Distribution: Gender-wise distribution of victims.
 
 
-##### Murders Cases
+##### **Murders Cases**
+
 
 Yearly Murder Cases: Number of murder cases reported each year.
 
@@ -230,7 +242,8 @@ Regional Analysis: Regions with the highest increase in murder cases.
 Age Groups of Victims: Common age groups of murder victims.
 
 
-##### Victims of Murder
+##### **Victims of Murder**
+
 
 Age Distribution: Most common age groups among murder victims.
 
@@ -243,7 +256,9 @@ Regional Analysis: Regions with the highest number of murder victims.
 Trends Over Years: Trends in the number of murder victims over the years.
 
 
-##### Kidnapping and Abduction
+
+##### **Kidnapping and Abduction**
+
 
 Yearly Kidnapping Cases: Number of kidnapping and abduction cases each year.
 
@@ -256,7 +271,8 @@ Age Groups Targeted: Most targeted age groups in kidnappings.
 Trends Over Years: Trends in kidnapping cases over the years.
 
 
-#### Violent Crimes
+#### **Violent Crimes**
+
 
 Yearly Violent Crimes: Number of violent crimes reported each year.
 
@@ -269,7 +285,9 @@ Regional Analysis: Regions with the highest increase in violent crimes.
 Gender Distribution: Gender distribution of victims in violent crimes.
 
 
-##### IPC Crimes in City
+
+##### **IPC Crimes in City**
+
 
 Yearly IPC Crimes in Cities: Number of IPC crimes reported in cities each year.
 
@@ -282,7 +300,7 @@ Gender Distribution: Gender-wise distribution in IPC crimes in cities.
 Trends Over Years: Trends in IPC crimes in cities over the years.
 
 
-##### IPC Crimes in States
+##### **IPC Crimes in States**
 
 Yearly IPC Crimes in States: Number of IPC crimes reported in states each year.
 
@@ -294,7 +312,7 @@ Gender Distribution: Gender-wise distribution in IPC crimes in states.
 
 Trends Over Years: Trends in IPC crimes in states over the years.
 
-Total Complaints Received
+#### **Total Complaints Received**
 
 Yearly Complaints: Number of complaints received each year.
 
@@ -305,6 +323,9 @@ Regional Analysis: Regions with the highest number of complaints.
 Year-on-Year Comparison: Comparison of complaints received over the years.
 
 Gender Distribution of Complainants: Gender distribution of complainants.
+
+
+__________________________________________________________________________________
 
 
 #### Visualizations
@@ -321,6 +342,9 @@ Pie Charts: Illustrating the gender distribution of victims.
 Heat Maps: Visualizing crime intensity across regions.
 
 Histograms: Showing age distribution of victims.
+
+
+__________________________________________________________________________________
 
 
 #### Dashboards
@@ -347,7 +371,14 @@ IPC Crimes in States Dashboard: State-wise analysis of IPC crimes.
 Total Complaints Received Dashboard: Overview of complaints received over the years and types of complaints.
 
 
-#### Project Activities
+
+__________________________________________________________________________________
+
+
+### **Project Activities**
+
+
+__________________________________________________________________________________
 
 ##### Data Cleaning
 
@@ -358,6 +389,9 @@ Removed duplicates.
 Standardized column names and data formats.
 
 
+__________________________________________________________________________________
+
+
 ###### Exploratory Data Analysis (EDA)
 
 Descriptive statistics for each dataset.
@@ -365,6 +399,8 @@ Descriptive statistics for each dataset.
 Visualizations to understand data distribution.
 
 Correlation analysis between different variables.
+
+__________________________________________________________________________________
 
 
 ###### Insights
@@ -376,6 +412,9 @@ Trends in crime rates over the years.
 Gender and age distribution of victims.
 
 Regional hotspots for different types of crimes.
+
+
+__________________________________________________________________________________
 
 
 ###### Dashboard Creation
@@ -391,11 +430,15 @@ Detailed project report.
 Presentation summarizing key findings and insights.
 
 
+__________________________________________________________________________________
 
 **Contributing**
 
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+__________________________________________________________________________________
+
 
 **Contact**
 
