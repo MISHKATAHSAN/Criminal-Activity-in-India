@@ -6,26 +6,27 @@ This project aims to analyze criminal activities in India using various datasets
 
 **Datasets**
 
+
 The project utilizes the following datasets:
 
 
-1) Crime Against Women
+1. Crime Against Women: Data on crimes specifically targeting women.
 
-2) Crime Against Children
+2. Children: Data on crimes against children.
 
-3) Murders Cases
+3. Murders Cases: Data on murder incidents.
 
-4) Victims of Murder
+4. Victims of Murder: Information on the victims of murder cases.
 
-5) Kidnapping and Abduction
+5. Kidnapping and Abduction: Data on kidnapping and abduction cases.
 
-6) Violent Crimes
+6. Violent Crimes: Data on various violent crimes.
 
-7) IPC Crimes in City
+7. IPC Crimes in City: Data on IPC (Indian Penal Code) crimes in various cities.
 
-8) IPC Crimes in States
+8. IPC Crimes in States: Data on IPC crimes in different states.
 
-9) Total Complaints Received
+9. Total Complaints Received: Data on the total complaints received regarding criminal activities.
 
 
 
