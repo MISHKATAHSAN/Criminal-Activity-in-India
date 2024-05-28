@@ -39,21 +39,21 @@ Criminal-Activities-in-India/
 **├── data/**
 
 
-│   ├── crime_against_women.csv
+│   ├── crime_against_women.csv  -> https://drive.google.com/file/d/1ekdyvBIAawFNQZWjbQKyeGSvK30_B4RW/view?usp=drive_link
 
-│   ├── children.csv
+│   ├── crime against children.csv --> https://drive.google.com/file/d/1wt_iKQW8pxatYBtIDJiMuYP7ai1p6p6V/view?usp=drive_link
 
-│   ├── murders_cases.csv
+│   ├── murders_cases.csv  --> https://drive.google.com/file/d/18hmD3zAc1hH-z-YXLgEtruDsjt_uT8Qk/view?usp=drive_link
 
-│   ├── victims_of_murder.csv
+│   ├── victims_of_murder.csv  --> https://drive.google.com/file/d/1OUsqgTZsQDNCJyEoOwq5roDnl2AifXXm/view?usp=drive_link
 
 │   ├── kidnapping_abduction.csv --> https://drive.google.com/file/d/1Ez-zsARhhMZG6eOSNxWvomHmRjF1FQJa/view?usp=drive_link
 
 │   ├── violent_crimes.csv --> https://drive.google.com/file/d/1JNPwYB0TSXsNZeKkUV8zB3DOmcCeEs_S/view?usp=drive_link
 
-│   ├── ipc_crimes_in_city.csv
+│   ├── ipc_crimes_in_city.csv  -> https://drive.google.com/file/d/1YTkwikxqAGL58khMAMGDvXQH4-5AsX4j/view?usp=drive_link
 
-│   ├── ipc_crimes_in_states.csv
+│   ├── ipc_crimes_in_states.csv  -> https://drive.google.com/file/d/1NjgupvDrPnsdpNjAtL1i-pOK8am2hUAH/view?usp=drive_link
 
 │   ├── total_complaints_received.csv  --> https://drive.google.com/file/d/1uNqjCLu3x1iwzufQuvnYxq84K4L9ULLD/view?usp=drive_link
 
@@ -62,23 +62,21 @@ Criminal-Activities-in-India/
 **├── notebooks/**
 
 
-│   ├── EDA_Crime_Against_Women.ipynb
+│   ├── EDA_Crime_Against_Women_&_children.ipynb -> https://colab.research.google.com/drive/1YLj1XR5bKgvckCOkNTF3jtqQtTPU4Yww?usp=drive_link
 
-│   ├── EDA_Children.ipynb
 
-│   ├── EDA_Murders_Cases.ipynb
 
-│   ├── EDA_Victims_of_Murder.ipynb
+│   ├── EDA_Murders_Cases_&_victims_of_murders.ipynb -> https://colab.research.google.com/drive/19lSlZTgcJrRblKoLt79P-vLPpzuf9LbB?usp=drive_link
 
-│   ├── EDA_Kidnapping_Abduction.ipynb
 
-│   ├── EDA_Violent_Crimes.ipynb
 
-│   ├── EDA_IPC_Crimes_in_City.ipynb
+│   ├── EDA_Violent_Crimes_&_Kidnapping_Abduction.ipynb -> https://colab.research.google.com/drive/1trziLLChFX9jEfgFsezpg47Fx5AbSiIo?usp=drive_link
 
-│   ├── EDA_IPC_Crimes_in_States.ipynb
 
-│   ├── EDA_Total_Complaints_Received.ipynb
+
+│   ├── EDA_IPC_Crimes_in_City_&_states_&_Total_complaints_received.ipynb  -> https://colab.research.google.com/drive/1RO0R1LRWirLA-LP56Ggg4hi5aVfrruyd?usp=drive_link
+
+
 
 
 
